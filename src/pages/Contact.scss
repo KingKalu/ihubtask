@@ -1,0 +1,18 @@
+.contact{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+    & .generalinfo{
+        min-width: 300px;
+
+    }
+    & .content{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 900px;
+        padding: 0 30px;
+    }
+}

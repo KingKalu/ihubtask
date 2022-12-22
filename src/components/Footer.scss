@@ -1,0 +1,27 @@
+.footer{
+    & div{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+     
+    & p{
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-block: 30px;
+    background-color: black;
+    color: white;
+
+    & img{
+        background-color: white;
+    }
+
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+}
