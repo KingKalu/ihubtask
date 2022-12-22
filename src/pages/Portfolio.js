@@ -5,8 +5,7 @@ import CardTwo from '../assets/card2.jpg'
 
 const Portfolio = () => {
   return (
-    <div className='portfolio page'>
-        <div className='content'>
+    <div className='portfolio'>
           <ul>
             <li>
               <img src={CardOne} />
@@ -25,8 +24,6 @@ const Portfolio = () => {
               <p>This is the First Card Design</p>
             </li>
           </ul>
-        </div>
-
     </div>
   )
 }

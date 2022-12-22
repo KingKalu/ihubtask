@@ -3,8 +3,8 @@ import './Contact.scss'
 
 const Contact = () => {
   return (
-    <div className='contact page'>
-      <div className='content'>
+    <div className='contact'>
+  
           <div className='generalinfo'>
             <article>
             <h1>General Information</h1><br/>
@@ -24,7 +24,6 @@ const Contact = () => {
                 </ul>
               </article>
           </div>
-      </div>
       
     </div>
   )

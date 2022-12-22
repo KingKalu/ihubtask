@@ -1,16 +1,17 @@
 import React from 'react'  
 import './App.scss'
-import MainPage from './components/MainPage'
-import { BrowserRouter } from 'react-router-dom'
+import Navbar from './components/Navbar'
+import NavPage from './components/NavPage'
+import Footer from './components/Footer'
+
 
 const App = () => {
   return (
-    <>
-        <BrowserRouter>
-            <MainPage/>
-        </BrowserRouter>
-    </>
+    <div className='app'>
+        <Navbar />            
+        <NavPage />
+        <Footer />
+    </div>
   )
 }
-
 export default App

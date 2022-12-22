@@ -1,14 +1,14 @@
 .portfolio{
-    height: 100%;
+    height: calc(100% - 170px);
     padding-block: 40px;
     overflow-y: auto;
-    & .content{
-        display: flex;
-        justify-content: center;
-    }
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
     & ul{
         display: flex;
         justify-content: center;
+
         gap: 10px;
         flex-wrap: wrap;
         width: 700px;

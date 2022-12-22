@@ -6,14 +6,17 @@
 }
 
 .about-container{
-    width: 80%;
     display: flex;
+    align-items: flex-start;
     flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
-    margin: 40px auto;
-    height: 100%;
+    margin: 0 auto;
     overflow-y: auto;
+    height: calc(100% - 170px);
+    padding-block: 30px;
+
+    
 
     & .content{
         max-width: 80%;
