@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KingKalu/ihubtask.git/static/css/main.aefbf26d.css",
+    "main.js": "/KingKalu/ihubtask.git/static/js/main.d02a7976.js",
+    "static/js/787.a2cb61a6.chunk.js": "/KingKalu/ihubtask.git/static/js/787.a2cb61a6.chunk.js",
+    "static/media/card1.jpg": "/KingKalu/ihubtask.git/static/media/card1.cd45455bac5123bd761c.jpg",
+    "static/media/card2.jpg": "/KingKalu/ihubtask.git/static/media/card2.c815869825cd82843ff5.jpg",
+    "static/media/isaac-pic.jpg": "/KingKalu/ihubtask.git/static/media/isaac-pic.4e8ba7e7d13557926ee0.jpg",
+    "static/media/logo.svg": "/KingKalu/ihubtask.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KingKalu/ihubtask.git/index.html",
+    "main.aefbf26d.css.map": "/KingKalu/ihubtask.git/static/css/main.aefbf26d.css.map",
+    "main.d02a7976.js.map": "/KingKalu/ihubtask.git/static/js/main.d02a7976.js.map",
+    "787.a2cb61a6.chunk.js.map": "/KingKalu/ihubtask.git/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aefbf26d.css",
+    "static/js/main.d02a7976.js"
+  ]
+}
