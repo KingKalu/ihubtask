@@ -1,5 +1,7 @@
 .portfolio{
-
+    height: 100%;
+    padding-block: 40px;
+    overflow-y: auto;
     & .content{
         display: flex;
         justify-content: center;
