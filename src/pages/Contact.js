@@ -6,7 +6,7 @@ const Contact = () => {
     <div className='contact page'>
       <div className='content'>
           <div className='generalinfo'>
-          <article>
+            <article>
             <h1>General Information</h1><br/>
               I am not currently looking for new design work,
               but I am avaliable for sarticleeaking gigs and similar

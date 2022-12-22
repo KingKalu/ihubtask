@@ -9,8 +9,11 @@
     width: 80%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 50px;
     margin: 40px auto;
+    height: 100%;
+    overflow-y: auto;
 
     & .content{
         max-width: 80%;
