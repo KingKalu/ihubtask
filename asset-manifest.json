@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ihubtask/static/css/main.3209db2b.css",
-    "main.js": "/ihubtask/static/js/main.241e0688.js",
+    "main.css": "/ihubtask/static/css/main.094d1f04.css",
+    "main.js": "/ihubtask/static/js/main.9fcffb34.js",
     "static/js/787.a2cb61a6.chunk.js": "/ihubtask/static/js/787.a2cb61a6.chunk.js",
     "static/media/card1.jpg": "/ihubtask/static/media/card1.cd45455bac5123bd761c.jpg",
     "static/media/card2.jpg": "/ihubtask/static/media/card2.c815869825cd82843ff5.jpg",
     "static/media/isaac-pic.jpg": "/ihubtask/static/media/isaac-pic.4e8ba7e7d13557926ee0.jpg",
     "static/media/logo.svg": "/ihubtask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ihubtask/index.html",
-    "main.3209db2b.css.map": "/ihubtask/static/css/main.3209db2b.css.map",
-    "main.241e0688.js.map": "/ihubtask/static/js/main.241e0688.js.map",
+    "main.094d1f04.css.map": "/ihubtask/static/css/main.094d1f04.css.map",
+    "main.9fcffb34.js.map": "/ihubtask/static/js/main.9fcffb34.js.map",
     "787.a2cb61a6.chunk.js.map": "/ihubtask/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3209db2b.css",
-    "static/js/main.241e0688.js"
+    "static/css/main.094d1f04.css",
+    "static/js/main.9fcffb34.js"
   ]
 }
